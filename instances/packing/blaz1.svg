@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21cm" height="29.7cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:0.0762}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1871615498384">
+   <g id="_2396677389856">
+    <polygon class="fil0 str0" points="289,300 345,272 401,300 401,384 345,412 289,384 "/>
+    <polygon class="fil0 str0" points="205,300 289,300 261,356 289,412 289,440 233,440 177,384 177,328 "/>
+    <polygon class="fil0 str0" points="205,440 261,440 289,468 289,524 261,552 205,552 177,524 177,468 "/>
+    <polygon class="fil0 str0" points="289,412 345,440 401,412 373,468 401,552 345,524 289,552 317,496 "/>
+    <polygon class="fil0 str0" points="177,146 317,146 317,286 289,286 261,230 233,202 177,174 "/>
+    <polygon class="fil0 str0" points="233,202 289,286 177,286 "/>
+    <polygon class="fil0 str0" points="317,146 373,146 373,202 317,202 "/>
+   </g>
+  </g>
+ </g>
+</svg>

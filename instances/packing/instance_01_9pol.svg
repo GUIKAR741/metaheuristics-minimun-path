@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21cm" height="29.7cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#373435;stroke-width:0.1343}
+    .str1 {stroke:#373435;stroke-width:0.1993}
+    .str2 {stroke:#373435;stroke-width:0.1997}
+    .str0 {stroke:#373435;stroke-width:0.2}
+    .str4 {stroke:#373435;stroke-width:0.2015}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2763482675072">
+   <polygon class="fil0 str0" points="0,0 100,0 100,100 0,100 "/>
+   <polygon class="fil0 str1" points="0,100 50,100 50,150 0,150 "/>
+   <polygon class="fil0 str1" points="50,100 100,100 100,150 50,150 "/>
+   <polygon class="fil0 str0" points="0,150 100,150 100,250 0,250 "/>
+   <polygon class="fil0 str2" points="150,250 150,150 100,150 100,250 "/>
+   <polygon class="fil0 str0" points="100,150 150,150 150,0 100,0 "/>
+   <polygon class="fil0 str3" points="200,250 200,150 150,150 150,250 "/>
+   <polygon class="fil0 str4" points="200,150 200,0 150,0 150,150 "/>
+   <polygon class="fil0 str0" points="0,300 200,300 200,250 0,250 "/>
+  </g>
+ </g>
+</svg>

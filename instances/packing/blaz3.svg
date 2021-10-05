@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21cm" height="29.7cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:0.0762}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1871611266128">
+   <g id="_2396836558416">
+    <polygon class="fil0 str0" points="371,357 427,329 483,357 483,441 427,469 371,441 "/>
+    <polygon class="fil0 str0" points="483,301 539,273 595,301 595,385 539,413 483,385 "/>
+    <polygon class="fil0 str0" points="483,525 539,497 595,525 595,609 539,637 483,609 "/>
+    <polygon class="fil0 str0" points="735,357 819,357 791,413 819,469 819,497 763,497 707,441 707,385 "/>
+    <polygon class="fil0 str0" points="847,217 931,217 903,273 931,329 931,357 875,357 819,301 819,245 "/>
+    <polygon class="fil0 str0" points="847,357 931,357 903,413 931,469 931,497 875,497 819,441 819,385 "/>
+    <polygon class="fil0 str0" points="623,357 679,357 707,385 707,441 679,469 623,469 595,441 595,385 "/>
+    <polygon class="fil0 str0" points="623,525 679,525 707,553 707,609 679,637 623,637 595,609 595,553 "/>
+    <polygon class="fil0 str0" points="735,525 791,525 819,553 819,609 791,637 735,637 707,609 707,553 "/>
+    <polygon class="fil0 str0" points="371,217 427,245 483,217 455,273 483,357 427,329 371,357 399,301 "/>
+    <polygon class="fil0 str0" points="371,441 427,469 483,441 455,497 483,581 427,553 371,581 399,525 "/>
+    <polygon class="fil0 str0" points="483,385 539,413 595,385 567,441 595,525 539,497 483,525 511,469 "/>
+    <polygon class="fil0 str0" points="539,217 679,217 679,357 651,357 623,301 595,273 539,245 "/>
+    <polygon class="fil0 str0" points="679,217 819,217 819,357 791,357 763,301 735,273 679,245 "/>
+    <polygon class="fil0 str0" points="791,497 931,497 931,637 903,637 875,581 847,553 791,525 "/>
+    <polygon class="fil0 str0" points="427,553 483,637 371,637 "/>
+    <polygon class="fil0 str0" points="707,441 763,525 651,525 "/>
+    <polygon class="fil0 str0" points="735,273 791,357 679,357 "/>
+    <polygon class="fil0 str0" points="483,217 539,217 539,273 483,273 "/>
+    <polygon class="fil0 str0" points="595,469 651,469 651,525 595,525 "/>
+    <polygon class="fil0 str0" points="819,581 875,581 875,637 819,637 "/>
+   </g>
+  </g>
+ </g>
+</svg>
